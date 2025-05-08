@@ -1,6 +1,7 @@
 body {
   max-width: 800px;
   background-color: chocolate;
+  border-radius: 10px;
 }
 
 h1 {
