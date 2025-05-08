@@ -2,6 +2,8 @@
   max-width: 800px;
   background-color: chocolate;
   border-radius: 10px;
+  display: block;
+  margin: 60 auto;
 }
 
 h1 {
