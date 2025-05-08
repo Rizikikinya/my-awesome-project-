@@ -2,9 +2,12 @@ h1 {
   text-align: center;
   color: green;
 }
-#enterEmail {
+#emailform {
   display: block;
-  margin: 60 auto;
+  margin: 100 auto;
+  margin-left: 100px;
+}
+#enterEmail {
   padding: 20px;
   background-color: aqua;
   border-radius: 15px;
